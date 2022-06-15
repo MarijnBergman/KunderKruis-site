@@ -55,11 +55,14 @@
     width: 100%;
   }
 
-  .content{
-    padding-left: 575px;
-    padding-top: 200px;
+.content {
+    /* padding-left: 575px; */
+    margin: 200px 0 0 0;
     color: white;
-  }
+    max-width: 960px;
+    margin: 0px auto;
+    position: relative;
+}
 
   .text{
     color:#fff;
