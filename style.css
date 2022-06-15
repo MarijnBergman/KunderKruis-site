@@ -10,6 +10,7 @@
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(./images/kunderkruisbg.jpg);
     background-size: cover;
     background-position: center;
+    color: white;
   }
 
   .logo{
@@ -55,7 +56,6 @@
   }
 
   .content{
-    position: relative;
     padding-left: 575px;
     padding-top: 200px;
     color: white;
@@ -72,4 +72,9 @@
   .slogan{
     position: relative;
     padding-left: 38px;
+  }
+  .contact{
+    position: relative;
+    padding-left: 38px;
+    color: white;
   }
