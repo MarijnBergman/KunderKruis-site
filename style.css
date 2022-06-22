@@ -14,7 +14,7 @@
   }
 
   .logo{
-    position: absolute;
+    float: left;
     padding-top: 10px;
     padding-left: 10px;
     width: 170px;
@@ -22,7 +22,7 @@
   }
 
   .navbar{
-      position: absolute;
+      position: relative;
       padding-left: 400px;
       padding-top: 70px;
   }
@@ -55,11 +55,13 @@
     width: 100%;
   }
 
-  .content{
-    padding-left: 575px;
-    padding-top: 200px;
+.content {
+   /* padding-left: 575px;*/
+    position: relative;
+    margin: 200px auto 0 auto;
     color: white;
-  }
+    max-width: 960px;
+}
 
   .text{
     color:#fff;
@@ -71,7 +73,7 @@
 
   .slogan{
     position: relative;
-    padding-left: 38px;
+    padding-left: 50px;
   }
   .contact{
     position: relative;
