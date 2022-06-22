@@ -58,9 +58,10 @@
 .content {
    /* padding-left: 575px;*/
     position: relative;
-    margin: 200px auto 0 auto;
+    margin: 275px auto 0 auto;
     color: white;
     max-width: 960px;
+    text-align: center;
 }
 
   .text{
