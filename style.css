@@ -89,4 +89,20 @@
     padding-left: 95px;
     padding-bottom: 50px;
   }
+
+  .gallery{
+    position: relative;
+    align-content: center;
+    padding-top: 150px;
+    padding-left: 95px;
+    padding-bottom: 50px;
+  }
+
+  .gallery1{
+    padding-left: 290px;
+  }
+
+  .gallerylast{
+    padding-left: 80px;
+  }
   
